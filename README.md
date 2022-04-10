@@ -13,5 +13,5 @@ Het Python programma main.py stuurt web-requests naar de endpoint voor de oefeni
 
 Als maker van dit programma ben ik niet aansprakelijk voor mogelijke schade en/of toegankelijkheidsproblemen aan de services en/of systemen van Learnbeat door dit programma, dus run het op eigen risico. 
 
-## Aan de Learnbeat 
+## Aan Learnbeat 
 Lekker background aan het checken! Zou het waarderen als jullie dit een built-in feature maken.
