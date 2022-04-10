@@ -12,3 +12,6 @@ As creator of the script, I'm not responsible for possible damage and/or accessi
 Het Python programma main.py stuurt web-requests naar de endpoint voor de oefening antwoorden, met een leeg antwoord. Let op: hierdoor lijkt het alsof je meer dan 1.000 incorrecte antwoorden hebt ingevoerd in Learnbeat. De statistiek-pagina zal weergeven dat 0% van je antwoorden correct zijn. Voorkom daarnaast dat je het programma meerdere malen doet runnen (om schade en toegankelijkheidsproblemen op de service van Learnbeat te voorkomen).
 
 Als maker van dit programma ben ik niet aansprakelijk voor mogelijke schade en/of toegankelijkheidsproblemen aan de services en/of systemen van Learnbeat door dit programma, dus run het op eigen risico. 
+
+## Aan de Learnbeat 
+Lekker background aan het checken! Zou het waarderen als jullie dit een built-in feature maken.
